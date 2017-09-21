@@ -1,0 +1,6 @@
+Flamengo Vasco 3 1
+Fluminense Vasco 1 0
+Flamengo Fluminense 10 0
+Vasco Fluminense 3 3
+Vasco Flamengo 1 0
+Vasco Fluminense 3 2
